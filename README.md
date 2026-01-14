@@ -10,7 +10,7 @@
 <hr/>
 
 
-I remember when the first time I studied **`Red Black Tree`** **(RBT)** , it was an enigma . A seemingly random _rotations_ and _colorings_ seems to somehow balance a **`Binary Search Tree`** **(BST)** . But I had no intuition for why these rotations and colorings seem to magically balance the BST . I used to read these horrible case works and my reaction everytime after it got balanced was - Surprised Pikachu Face :
+I remember when the first time I studied **`Red BlUE Tree`** **(RBT)** , it was an enigma . A seemingly random _rotations_ and _colorings_ seems to somehow balance a **`Binary Search Tree`** **(BST)** . But I had no intuition for why these rotations and colorings seem to magically balance the BST . I used to read these horrible case works and my reaction everytime after it got balanced was - Surprised Pikachu Face :
 
 <p align="center">
   <img src="RBTDrawings/Images/Pikachu.webp" />
