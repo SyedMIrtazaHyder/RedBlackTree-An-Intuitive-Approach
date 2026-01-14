@@ -10,7 +10,7 @@
 <hr/>
 
 
-I remember when the first time I studied **`Red Black Tree`** **(RBT)** , it was an enigma . A seemingly random _rotations_ and _colorings_ seems to somehow balance a **`Binary Search Tree`** **(BST)** . But I had no intuition for why these rotations and colorings seem to magically balance the BST . I used to read these horrible case works and my reaction everytime after it got balanced was - Surprised Pikachu Face :
+I remember when the first time I studied **`Red BlUE Tree`** **(RBT)** , it was an enigma . A seemingly random _rotations_ and _colorings_ seems to somehow balance a **`Binary Search Tree`** **(BST)** . But I had no intuition for why these rotations and colorings seem to magically balance the BST . I used to read these horrible case works and my reaction everytime after it got balanced was - Surprised Pikachu Face :
 
 <p align="center">
   <img src="RBTDrawings/Images/Pikachu.webp" />
@@ -33,9 +33,6 @@ I assume that you are familiar with Binary Search Trees and their shortcomings (
 So , we need to somehow make it balanced such that on average the height is **`logN`** . Red Black Tree with it magic `rotations` and `colorings` seems to somehow do this . But this is not the only data structure to do this . _The key to understanding RBT lies on the first few variant of this data structure that attempted to solve this balance of BSTs_.
 
 
-<hr/>
-<h1 align="center">A slightly modified BST</h1>
-<hr/>
 
 
 Let's consider a slight variant of the **BST**. Instead of **1 key** per node as in the regular BST , we will store upto **2 keys** per node in this case and each node can have **upto 3 child** .
